@@ -1,0 +1,9 @@
+**Table 4. Example (prompt: *“Once upon a time”*):**
+
+| Steering strength | Output                                                                                                                                                                                                                      |
+| :-----------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.0           | there was an old man who lived in the forest. He had no family and he did not have any friends either because everyone thought that this strange creature would eat them up!                                                |
+| 0.25          | there was an old man who lived in the forest. He had no children and he didn’t have any family to take care of him when he got older so one day while walking through his garden with some friends from work they noticed   |
+| 0.5          | there was an old man who lived in the mountains. He had no children and he spent his days alone tending to his garden of flowers and herbs. One day, as he sat under a tree enjoying the peacefulness of nature, he         |
+| 0.75          | there was an old man who lived in the mountains. He had been living alone for many years and he enjoyed his solitude very much. One day, while walking through the forest, he came across a small cottage that looked as if |
+|1 | Once upon a time,", there was an old man who lived in the forest. He had been living alone for many years and he enjoyed his solitude very much. One day, while walking through the woods, he came across a small clearing where some trees were growing|
